@@ -1,0 +1,38 @@
+Projet Objectif Life :
+
+Créer une app mobile dans laquelle je peux ajouter des item dans une liste dans lesquelles je met des objectifs de vie
+
+Fonctionnalités :
+	- Ajout
+	- Suppression
+	- Modification
+
+Utiliser Expo Go pour tester l'app sur le tel
+
+================================================================================
+
+Projet Météo :
+
+Faire une app météo en utilisant une API.
+Afficher le lieu (autoriser les droits pour la localisation), la météo en cours dans un icone, les degrés et les prévisions sur 3 jours et chaques jours les prévisions toutes les 3 heures.
+
+Donc J1 :
+	- Prev à 00:00
+	- Prev à 03:00
+	- Prev à 06:00
+	- Etc ...
+
+================================================================================
+
+Projet Coktails (Shake It) :
+
+Faire une application de recette de coktail avec possibilité d'acheter les ingrédients pour une recette
+
+Fonctionnalités :
+	- Tri par catégorie (fonction dans l'API)
+	- Recettes favorites (dans une page)
+	- Ajout des ingrédients dans un cart
+
+API : coktailDB
+
+Lien exemple : https://shakeit.netlify.app/
